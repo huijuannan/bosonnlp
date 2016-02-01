@@ -1,5 +1,5 @@
 {
-  "name": "bosonnlp",
+  "name": "@anren/bosonnlp",
   "version": "0.0.9",
   "description": "bosonnlp node sdk.",
   "main": "index.js",
